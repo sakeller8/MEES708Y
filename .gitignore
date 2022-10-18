@@ -10,3 +10,5 @@ literature/
 *html
 *.doc*
 *.xlsx
+
+.DS_Store
